@@ -1,0 +1,1 @@
+print("He says \"Give it a shot!\".")
